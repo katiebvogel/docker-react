@@ -9,6 +9,8 @@ RUN npm run build
 
 # /app/build <---- has all the stuff we want to serve up in run phase
 
-FROM nginx 
+FROM nginx
+# expose 80 is for AWS ElasticBeanstalk
+EXPOSE 80
 COPY --from=builder /app/build /usr/share/nginx/html
 
