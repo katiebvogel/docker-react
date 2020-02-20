@@ -14,9 +14,7 @@ function App() {
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
-          rel="noopener noreferrer"
-        >Changing on feature branch for new deploy workflow
-        </a>
+          rel="noopener noreferrer">learn react</a>
       </header>
     </div>
   );
