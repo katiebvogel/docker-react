@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React Here at this link - changing on the fly!
+          Changing on feature branch for new deploy workflow
         </a>
       </header>
     </div>
