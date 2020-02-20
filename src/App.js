@@ -15,8 +15,7 @@ function App() {
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
-        >
-          Changing on feature branch for new deploy workflow
+        >Changing on feature branch for new deploy workflow
         </a>
       </header>
     </div>
